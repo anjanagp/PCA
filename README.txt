@@ -1,3 +1,6 @@
+#Principal Component Analysis
+
+
 1) All the files required are under the folder PCA in the submission
 2) The source code is a file named PCA.py (Python version 2.7) and it can be run using the command 
 		python PCA.py
